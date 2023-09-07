@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# DataStructures\\OneDimensionalArray\\DataStructures\\SingleDimensionArray.csproj": {}
+    "D:\\Data Structures C# git\\SingleDimensionalArray\\DataStructures\\SingleDimensionArray.csproj": {}
   },
   "projects": {
-    "D:\\C# DataStructures\\OneDimensionalArray\\DataStructures\\SingleDimensionArray.csproj": {
+    "D:\\Data Structures C# git\\SingleDimensionalArray\\DataStructures\\SingleDimensionArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# DataStructures\\OneDimensionalArray\\DataStructures\\SingleDimensionArray.csproj",
+        "projectUniqueName": "D:\\Data Structures C# git\\SingleDimensionalArray\\DataStructures\\SingleDimensionArray.csproj",
         "projectName": "SingleDimensionArray",
-        "projectPath": "D:\\C# DataStructures\\OneDimensionalArray\\DataStructures\\SingleDimensionArray.csproj",
+        "projectPath": "D:\\Data Structures C# git\\SingleDimensionalArray\\DataStructures\\SingleDimensionArray.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\C# DataStructures\\OneDimensionalArray\\DataStructures\\obj\\",
+        "outputPath": "D:\\Data Structures C# git\\SingleDimensionalArray\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

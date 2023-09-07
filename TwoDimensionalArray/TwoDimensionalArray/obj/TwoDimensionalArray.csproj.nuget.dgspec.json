@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# DataStructures\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj": {}
+    "D:\\Data Structures C# git\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj": {}
   },
   "projects": {
-    "D:\\C# DataStructures\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj": {
+    "D:\\Data Structures C# git\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# DataStructures\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
+        "projectUniqueName": "D:\\Data Structures C# git\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
         "projectName": "TwoDimensionalArray",
-        "projectPath": "D:\\C# DataStructures\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
+        "projectPath": "D:\\Data Structures C# git\\TwoDimensionalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\C# DataStructures\\TwoDimensionalArray\\TwoDimensionalArray\\obj\\",
+        "outputPath": "D:\\Data Structures C# git\\TwoDimensionalArray\\TwoDimensionalArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
