@@ -42,5 +42,51 @@ namespace TwoDimensionalArray
             }
         }
 
+        // Accessing cell value - O(1) time and space complexity
+        public void accessCell(int row, int col)
+        {
+            Console.WriteLine("\nAccessing Row#" + row + ", Col#" + col);
+            try
+            {
+                Console.WriteLine("Cell value is: " + arr[row,col]);
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine("Invalid index for 2D array");
+            }
+        }
+
+        // Traverse 2D array - O(MN) time complexity, O(1) space complexity
+        public void traverse2DArray()
+        {
+            for (int row = 0; row < arr.GetLength(0); row++)  
+            {
+                for (int col = 0; col < arr.GetLength(1); col++)
+                {
+                    Console.Write(arr[row,col] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+
+        // Searching a single value
+        public void searchingValue(int value)
+        {
+            for (int row = 0; row < arr.GetLength(0); row++)
+            {
+                for (int col = 0; col < arr.GetLength(1); col++)
+                {
+                    if (arr[row,col] == value)
+                    {
+                        Console.WriteLine("Value is found at row: " + row + " Col: " + col);
+                        return;
+                    }
+                }
+            }
+
+            Console.WriteLine("Value is not found");
+        }
+
     }
 }
