@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SinglyLinkedList
+namespace DoublyLinkedList
 {
     public class LinkedList
     {
@@ -23,7 +23,8 @@ namespace SinglyLinkedList
         {
             Node newNode = new Node(value);
             this.tail.Next = newNode;
-            this.tail= newNode;
+            newNode.Prev = this.tail;
+            this.tail = newNode;
             this.length++;
         }
 
@@ -31,6 +32,7 @@ namespace SinglyLinkedList
         {
             Node newNode = new Node(value);
             newNode.Next = this.head;
+            this.head.Prev = newNode;
             this.head = newNode;
             this.length++;
         }
@@ -49,46 +51,33 @@ namespace SinglyLinkedList
             }
 
             Node newNode = new Node(value);
-            Node leader = TraverseToIndex(index-1);
-            Node holdingPointer = leader.Next;
-
+            Node leader = TraverseToIndex(index - 1);
+            Node follower = leader.Next;
+            
             leader.Next = newNode;
-            newNode.Next = holdingPointer;
+            newNode.Prev = leader;
+            newNode.Next = follower;
+            follower.Prev = newNode;
             this.length++;
 
         }
 
         public void Remove(int index)
         {
-            index= WrapIndex(index);
+            index = WrapIndex(index);
             if (index == 0)
             {
                 head = head.Next;
                 return;
             }
 
-            Node leader = TraverseToIndex(index-1);
+            Node leader = TraverseToIndex(index - 1);
             Node nodeToDelete = leader.Next;
             leader.Next = nodeToDelete.Next;
+            nodeToDelete.Next.Prev = leader;
             this.length--;
         }
 
-        public void Reverse()
-        {
-            Node first = head;
-            tail = head;
-            Node second = first.Next;
-            for (int i = 0; i < length-1; i++)
-            {
-                Node temp = second.Next;
-                second.Next = first;
-                first = second;
-                second = temp;
-            }
-
-            head.Next = null;
-            head = first;
-        }
 
         public void PrintList()
         {
