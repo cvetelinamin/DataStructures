@@ -1,0 +1,15 @@
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\bin\Debug\net6.0\Stack_Using_Linkedlist.exe
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\bin\Debug\net6.0\Stack_Using_Linkedlist.deps.json
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\bin\Debug\net6.0\Stack_Using_Linkedlist.runtimeconfig.json
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\bin\Debug\net6.0\Stack_Using_Linkedlist.dll
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\bin\Debug\net6.0\Stack_Using_Linkedlist.pdb
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.csproj.AssemblyReference.cache
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.AssemblyInfoInputs.cache
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.AssemblyInfo.cs
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.dll
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\refint\Stack_Using_Linkedlist.dll
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.pdb
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\Stack_Using_Linkedlist.genruntimeconfig.cache
+D:\C# DataStructures\Stack_Using_Linkedlist\Stack_Using_Linkedlist\obj\Debug\net6.0\ref\Stack_Using_Linkedlist.dll

@@ -1,0 +1,15 @@
+D:\C# DataStructures\StackUsingArray\StackUsingArray\bin\Debug\net6.0\StackUsingArray.exe
+D:\C# DataStructures\StackUsingArray\StackUsingArray\bin\Debug\net6.0\StackUsingArray.deps.json
+D:\C# DataStructures\StackUsingArray\StackUsingArray\bin\Debug\net6.0\StackUsingArray.runtimeconfig.json
+D:\C# DataStructures\StackUsingArray\StackUsingArray\bin\Debug\net6.0\StackUsingArray.dll
+D:\C# DataStructures\StackUsingArray\StackUsingArray\bin\Debug\net6.0\StackUsingArray.pdb
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.csproj.AssemblyReference.cache
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.AssemblyInfoInputs.cache
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.AssemblyInfo.cs
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.dll
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\refint\StackUsingArray.dll
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.pdb
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\StackUsingArray.genruntimeconfig.cache
+D:\C# DataStructures\StackUsingArray\StackUsingArray\obj\Debug\net6.0\ref\StackUsingArray.dll
