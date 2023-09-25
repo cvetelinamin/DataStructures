@@ -1,0 +1,15 @@
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\bin\Debug\net6.0\QueueUsingLinkedlist.exe
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\bin\Debug\net6.0\QueueUsingLinkedlist.deps.json
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\bin\Debug\net6.0\QueueUsingLinkedlist.runtimeconfig.json
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\bin\Debug\net6.0\QueueUsingLinkedlist.dll
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\bin\Debug\net6.0\QueueUsingLinkedlist.pdb
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.csproj.AssemblyReference.cache
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.AssemblyInfoInputs.cache
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.AssemblyInfo.cs
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.dll
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\refint\QueueUsingLinkedlist.dll
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.pdb
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\QueueUsingLinkedlist.genruntimeconfig.cache
+D:\C# DataStructures\QueueUsingLinkedlist\QueueUsingLinkedlist\obj\Debug\net6.0\ref\QueueUsingLinkedlist.dll

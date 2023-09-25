@@ -1,0 +1,15 @@
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.exe
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.deps.json
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.runtimeconfig.json
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.dll
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.pdb
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.csproj.AssemblyReference.cache
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfoInputs.cache
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfo.cs
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.dll
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\refint\QueueUsingStack.dll
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.pdb
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.genruntimeconfig.cache
+D:\C# DataStructures\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\ref\QueueUsingStack.dll
