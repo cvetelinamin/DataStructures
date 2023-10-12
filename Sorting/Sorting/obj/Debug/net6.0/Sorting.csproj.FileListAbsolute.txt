@@ -1,0 +1,15 @@
+D:\C# DataStructures\Sorting\Sorting\bin\Debug\net6.0\Sorting.exe
+D:\C# DataStructures\Sorting\Sorting\bin\Debug\net6.0\Sorting.deps.json
+D:\C# DataStructures\Sorting\Sorting\bin\Debug\net6.0\Sorting.runtimeconfig.json
+D:\C# DataStructures\Sorting\Sorting\bin\Debug\net6.0\Sorting.dll
+D:\C# DataStructures\Sorting\Sorting\bin\Debug\net6.0\Sorting.pdb
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.csproj.AssemblyReference.cache
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfoInputs.cache
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfo.cs
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.dll
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\refint\Sorting.dll
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.pdb
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\Sorting.genruntimeconfig.cache
+D:\C# DataStructures\Sorting\Sorting\obj\Debug\net6.0\ref\Sorting.dll
