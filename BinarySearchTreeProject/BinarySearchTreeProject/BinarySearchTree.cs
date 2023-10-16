@@ -14,6 +14,11 @@ namespace BinarySearchTreeProject
             this.root = null;
         }
 
+        public Node GetRoot()
+        {
+            return this.root;
+        }
+
         public void Insert(int value)
         {
             Node newNode = new Node(value);
@@ -135,6 +140,86 @@ namespace BinarySearchTreeProject
             { //We are a right child
                 parentNode.Right = replacementNode;
             }
+        }
+
+        int COUNT = 5;
+        public void printTree(Node node)
+        {
+            print2DUtil(root, 0);
+        }
+
+        private void print2DUtil(Node root, int space)
+        {
+            // Base case  
+            if (root == null)
+                return;
+
+            // Increase distance between levels  
+            space += COUNT;
+
+            // Process right child first  
+            print2DUtil(root.Right, space);
+
+            // Print current node after space  
+            // count  
+            Console.Write("\n");
+            for (int i = COUNT; i < space; i++)
+            {
+                Console.Write(" ");
+            }
+            Console.Write(root.Value + "\n");
+
+            // Process left child  
+            print2DUtil(root.Left, space);
+        }
+
+        // Iterative
+        public List<int> BreathFirstSearch(Node currentNode)
+        {
+            List<int> list = new List<int>();
+            Queue<Node> queue = new Queue<Node>();
+            queue.Enqueue(currentNode);
+
+            while (queue.Count > 0)
+            {
+                currentNode = queue.Dequeue();
+                list.Add(currentNode.Value);
+                if (currentNode.Left != null)
+                {
+                    queue.Enqueue(currentNode.Left);
+                }
+
+                if (currentNode.Right != null)
+                {
+                    queue.Enqueue(currentNode.Right);
+                }
+            }
+
+            return list;
+        }
+
+        // Recurcive
+        public List<int> BreathFirstSearchR(Queue<Node> queue, List<int> list)
+        {
+            if (queue.Count == 0)
+            {
+                return list;
+            }
+
+            var currentNode = queue.Dequeue();
+            list.Add(currentNode.Value);
+
+            if (currentNode.Left != null)
+            {
+                queue.Enqueue(currentNode.Left);
+            }
+
+            if (currentNode.Right != null)
+            {
+                queue.Enqueue(currentNode.Right);
+            }
+
+            return BreathFirstSearchR(queue, list);
         }
     }
 }

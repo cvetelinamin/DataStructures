@@ -1,0 +1,15 @@
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\bin\Debug\net6.0\BinarySearchTreeProject.exe
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\bin\Debug\net6.0\BinarySearchTreeProject.deps.json
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\bin\Debug\net6.0\BinarySearchTreeProject.runtimeconfig.json
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\bin\Debug\net6.0\BinarySearchTreeProject.dll
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\bin\Debug\net6.0\BinarySearchTreeProject.pdb
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.csproj.AssemblyReference.cache
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.AssemblyInfoInputs.cache
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.AssemblyInfo.cs
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.csproj.CoreCompileInputs.cache
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.dll
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\refint\BinarySearchTreeProject.dll
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.pdb
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\BinarySearchTreeProject.genruntimeconfig.cache
+D:\C# DataStructures\BinarySearchTreeProject\BinarySearchTreeProject\obj\Debug\net6.0\ref\BinarySearchTreeProject.dll
