@@ -17,7 +17,7 @@ foreach (var item in result)
 }
 Console.WriteLine();
 
-//Recurcive call
+// Recurcive call
 List<int> list = new List<int>();
 Queue<Node> queue = new Queue<Node>();
 queue.Enqueue(tree.GetRoot());
@@ -27,4 +27,20 @@ foreach (var item in result2)
     Console.Write(item.ToString() + " ");
 }
 Console.WriteLine();
+
+var InOrder = tree.DFSInOrder();
+PrintList(InOrder);
+var PreOrder = tree.DFSPreOrder();
+PrintList(PreOrder);
+var PostOrder = tree.DFSPostOrder();
+PrintList(PostOrder);
+
+static void PrintList(List<int> list)
+{
+    foreach (var item in list)
+    {
+        Console.Write(item.ToString() + " ");
+    }
+    Console.WriteLine();
+}
 

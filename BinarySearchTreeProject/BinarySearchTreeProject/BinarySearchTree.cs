@@ -221,5 +221,75 @@ namespace BinarySearchTreeProject
 
             return BreathFirstSearchR(queue, list);
         }
+
+        public List<int> DFSInOrder()
+        {
+            List<int> result = new List<int>();
+            TraverseInOrder(this.root, result);
+            return result;
+        }
+
+        public List<int> DFSPreOrder()
+        {
+            List<int> result = new List<int>();
+            TraversePreOrder(this.root, result);
+            return result;
+        }
+
+        public List<int> DFSPostOrder()
+        {
+            List<int> result = new List<int>();
+            TraversePostOrder(this.root, result);
+            return result;
+        }
+
+        public List<int> TraverseInOrder(Node node, List<int> list)
+        {
+            if (node.Left !=null)
+            {
+                TraverseInOrder(node.Left, list);
+            }
+            list.Add(node.Value);
+            if (node.Right != null)
+            {
+                TraverseInOrder(node.Right, list);
+            }
+
+            return list;
+        }
+
+        public List<int> TraversePreOrder(Node node, List<int> list)
+        {
+            list.Add(node.Value);
+            if (node.Left != null)
+            {
+                TraversePreOrder(node.Left, list);
+            }
+            
+            if (node.Right != null)
+            {
+                TraversePreOrder(node.Right, list);
+            }
+
+            return list;
+        }
+
+        public List<int> TraversePostOrder(Node node, List<int> list)
+        {
+            
+            if (node.Left != null)
+            {
+                TraversePostOrder(node.Left, list);
+            }
+
+            if (node.Right != null)
+            {
+                TraversePostOrder(node.Right, list);
+            }
+            list.Add(node.Value);
+            return list;
+        }
+
+
     }
 }
